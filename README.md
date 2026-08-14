@@ -1,0 +1,2 @@
+# Bot [Local Minsk Search]
+
