@@ -15,14 +15,10 @@ Telegram-бот на базе aiogram 3, который принимает от 
 
 1. **Клонирование репозитория и переход в папку проекта:** 
 
-bash
-
 git clone https://github.com/ваш_username/имя_репозитория.git
 cd имя_репозитория
 
 2. **Создание и активация виртуального окружения:** 
-
-bash
 
 python -m venv .venv
 # Для Windows (PowerShell):
@@ -30,16 +26,11 @@ python -m venv .venv
 # Для macOS / Linux:
 source .venv/bin/activate
 
-Используйте код с осторожностью.
 3. **Установка зависимостей:** 
-
-bash
 
 pip install -r requirements.txt
 
 4. **Запуск бота:** 
-
-bash
 
 python bot.py
 
